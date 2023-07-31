@@ -207,9 +207,9 @@ nav .menu-btns .close-btn {
 }
 
 .hero-img {
-  height: 35rem;
-  width: 35rem;
-  background-image: url(./images/my_image.jpg);
+  height: 33rem;
+  width: 30rem;
+  background-image: url(./images/myImage.jpeg.jpg);
   background-position: 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -268,7 +268,7 @@ nav .menu-btns .close-btn {
   .hero-img {
     height: 28rem;
     width: 28rem;
-    background-size: 28rem 28rem;
+    background-size: 30rem 32rem;
   }
 }
 
@@ -308,8 +308,8 @@ nav .menu-btns .close-btn {
 }
 
 .img-side .emoji-img {
-  width: 20rem !important;
-  height: 20rem;
+  width: 15rem !important;
+  height: 15rem;
   bottom: -3rem;
   position: absolute;
   right: -2.2rem;
@@ -348,8 +348,8 @@ nav .menu-btns .close-btn {
   }
 
   .img-side .emoji-img {
-    width: 17rem !important;
-    height: 17rem;
+    width: 10rem !important;
+    height: 10rem;
   }
 
   .text-side h3 {
@@ -485,33 +485,32 @@ nav .menu-btns .close-btn {
   background-color: #0c0d0c;
 }
 
+.skill-java {
+  width: 80%;
+}
 .skill-html {
-  width: 90%;
+  width: 80%;
 }
 .skill-css {
-  width: 75%;
+  width: 70%;
 }
 .skill-js {
   width: 70%;
 }
 .skill-react {
-  width: 65%;
+  width: 80%;
 }
-.skill-php {
-  width: 65%;
-}
-.skill-nodejs {
+.skill-py {
   width: 50%;
 }
-.skill-canva {
-  width: 75%;
+
+.skill-nodejs {
+  width: 60%;
 }
-.skill-figma {
-  width: 70%;
+.skill-sql {
+  width: 60%;
 }
-.skill-photoshop {
-  width: 45%;
-}
+
 
 .skill-content .skill-list {
   display: none;
